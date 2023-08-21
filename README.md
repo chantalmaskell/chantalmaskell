@@ -8,4 +8,4 @@
 </ul>
 
 <h2>Check out my recently used languages:</h2>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@62a3717e-6a19-465c-aab9-2218294e35d8/530525b4-33c8-43e5-829f-5fe62b8e21aa.png" /></a>
+<figure><embed src="https://wakatime.com/share/@62a3717e-6a19-465c-aab9-2218294e35d8/06c7b828-dd17-4bf6-a093-96795cd46470.svg"></embed></figure>
