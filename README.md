@@ -1,6 +1,13 @@
-<h1>Hi, I'm Chantal</h1>
+# 💫 About Me:
+Hi, I'm Chantal.
+<br><br>Software Engineer in Leeds with with experience in C#, Azure, and API Development. MSc in Computer Science from the University of Liverpool.<br>LinkedIn: https://www.linkedin.com/in/chantal-maskell-89935b183/
 
-<p>Software Engineer in Leeds with an interest in C#. I'm also studing part-time for a MSc in Computer Science at the University of Liverpool.</p>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=chantalmaskell&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=chantalmaskell&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chantalmaskell&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h2>Check out my recently used languages:</h2>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@62a3717e-6a19-465c-aab9-2218294e35d8/316835d8-e83b-4a79-bf63-3c45254144ca.png" /></a>
+---
+[![](https://visitcount.itsvg.in/api?id=chantalmaskell&icon=0&color=0)](https://visitcount.itsvg.in)
